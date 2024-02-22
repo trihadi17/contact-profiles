@@ -39,6 +39,6 @@
   php artisan serve
   ```
 
-- Buka browser dengan url (http://localhost:8000)
+- Buka browser dengan url [http://localhost:8000](http://localhost:8000)
 
-- Referensi Panduan instalasi ini dimabil dari : README.md
+- Referensi Panduan instalasi ini dimabil dari : https://github.com/eskalink-id/keluhanpelanggan-testdev/blob/master/README.md
